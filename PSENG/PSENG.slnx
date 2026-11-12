@@ -1,4 +1,6 @@
 ﻿<Solution>
+  <Project Path="Microsoft.MixedReality.OpenXR.csproj" />
+  <Project Path="Microsoft.MixedReality.OpenXR.Editor.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
 </Solution>
